@@ -1,5 +1,4 @@
-.wrapper {
-  border: 1px solid black;
+.game__container {
   width: 60%;
   height: 90vh;
   margin: 0 auto;
@@ -20,16 +19,8 @@
   border-radius: 50%;
 }
 
-.changing {
+.changing-score {
   font-size: 30px;
-}
-
-.changing-correct {
-  color: #04AA6D;
-}
-
-.changing-wrong {
-  color: #CC0000;
 }
 
 .letter-container {
